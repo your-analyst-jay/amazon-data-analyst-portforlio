@@ -17,7 +17,7 @@ Hi, I’m **Jay Glenn Rebuya**, a data analyst focused on turning data into clea
 
 | Project | Description | Tools |
 |---|---|---|
-| Amazon Marketplace & Fulfillment Analytics | This project is a synthetic, **Amazon-inspired** Pandas DataFrame problem set for demonstrating the work of an e-commerce or operations data analyst. It is not based on proprietary Amazon data and does not represent Amazon's actual internal metrics | Python |
+| Amazon Marketplace & Fulfillment Analytics | Synthetic order-line analysis covering KPIs, fulfillment SLAs, promotions, returns, inventory risk, and seller scorecards | Python [Pandas, NumPy, Matplotlib], Excel [Pivot Table, Formulas] |
 
 ## Contact
 
